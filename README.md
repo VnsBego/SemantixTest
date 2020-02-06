@@ -49,13 +49,13 @@ Pois o reduceByKey primeiramente faz um agrupamento com base na (key) com os dad
 
 Para utilziar o codigo insira o path onde os arquivos de texto se  encontram na constante FILES_PATH
 
-##Total de Hosts Unicos:
+## Total de Hosts Unicos:
 138005
 
-##Total de Erros 404:
+## Total de Erros 404:
 20872
 
-##TOP 5 Hosts COM MAIS 404:
+## TOP 5 Hosts COM MAIS 404:
 
 ```bash
 |hoohoo.ncsa.uiuc.edu       |251  |
@@ -65,7 +65,7 @@ Para utilziar o codigo insira o path onde os arquivos de texto se  encontram na 
 |www-d4.proxy.aol.com       |91   |
 ```
 
-##Quantidade de erros 404 por dia:
+## Quantidade de erros 404 por dia:
 ```bash
 |01/Jul/1995|316  |
 |02/Jul/1995|291  |
@@ -127,5 +127,5 @@ Para utilziar o codigo insira o path onde os arquivos de texto se  encontram na 
 |31/Aug/1995|526  |
 ```
 
-##Total de bytes retornados
+## Total de bytes retornados
 65524319796
